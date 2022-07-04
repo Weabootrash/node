@@ -1,7 +1,7 @@
 {
     "serverAddress": "localbud",
     "serverName": "Nuntius Node 56: Copper City",
-    "iconName": "message.png",
+    "iconName": "letter.jpg",
     "terminalID": "N56",
     "defaultUser": {
         "userId": "user",
