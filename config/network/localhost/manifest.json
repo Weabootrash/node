@@ -1,8 +1,8 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverAddress": "localbud",
+    "serverName": "Nuntius Node 56: Copper City",
+    "iconName": "message.png",
+    "terminalID": "N56",
     "defaultUser": {
         "userId": "user",
         "password": "",
