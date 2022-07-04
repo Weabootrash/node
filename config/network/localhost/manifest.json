@@ -1,5 +1,5 @@
 {
-    "serverAddress": "localbud",
+    "serverAddress": "localhost",
     "serverName": "Nuntius Node 56: Copper City",
     "iconName": "letter.jpg",
     "terminalID": "N56",
